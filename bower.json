@@ -1,0 +1,24 @@
+{
+  "name": "ment",
+  "main": "dist/ment.js",
+  "version": "0.1.0",
+  "authors": [
+    "Ellen Gummesson <ellengummesson@gmail.com>"
+  ],
+  "description": "A tiny document fragment utility.",
+  "keywords": [
+    "dom",
+    "fragment"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gummesson/ment",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json",
+    "index.js"
+  ]
+}
